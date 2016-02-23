@@ -1,0 +1,20 @@
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.Form1.resources
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.Properties.Resources.resources
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.csproj.GenerateResource.Cache
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\bin\Debug\YahooStockEngine.cs
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\bin\Debug\ListAdditionandResult.exe.config
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\bin\Debug\ListAdditionandResult.exe
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\bin\Debug\ListAdditionandResult.pdb
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.exe
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.pdb
+C:\Users\mwj\Documents\Visual Studio 2013\Projects\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.csprojResolveAssemblyReference.cache
+C:\devII\ListAdditionandResult\ListAdditionandResult\bin\Debug\ListAdditionandResult.exe.config
+C:\devII\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.exe
+C:\devII\ListAdditionandResult\ListAdditionandResult\bin\Debug\YahooStockEngine.cs
+C:\devII\ListAdditionandResult\ListAdditionandResult\bin\Debug\ListAdditionandResult.exe
+C:\devII\ListAdditionandResult\ListAdditionandResult\bin\Debug\ListAdditionandResult.pdb
+C:\devII\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.csprojResolveAssemblyReference.cache
+C:\devII\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.Form1.resources
+C:\devII\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.Properties.Resources.resources
+C:\devII\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.csproj.GenerateResource.Cache
+C:\devII\ListAdditionandResult\ListAdditionandResult\obj\Debug\ListAdditionandResult.pdb
